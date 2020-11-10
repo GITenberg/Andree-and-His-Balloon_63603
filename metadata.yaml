@@ -1,0 +1,33 @@
+_repo: Andree-and-His-Balloon_63603
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Machuron, Alexis
+    gutenberg_agent_id: '52517'
+    url: http://www.gutenberg.org/2009/agents/52517
+  - agent_name: Lachambre, Henri
+    alias: Lachambre, H. (Henri)
+    birthdate: 1846
+    deathdate: 1904
+    gutenberg_agent_id: '52516'
+    url: http://www.gutenberg.org/2009/agents/52516
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Henri_Lachambre
+    - https://en.wikipedia.org/wiki/Henri_Lachambre
+description: ''
+gutenberg_issued: '2020-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63603'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Balloon ascensions'
+- !lcsh 'North Pole'
+- !lcc 'G'
+- !lcsh 'Andrée, Salomon August, 1854-1897'
+- GITenberg
+title: Andrée and His Balloon
+url: http://www.gutenberg.org/ebooks/63603
